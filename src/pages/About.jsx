@@ -15,7 +15,7 @@ const About = () => {
     <main className="about-container">
       <section className='about-content-container'>
         <section className='image-container'>
-          {/* Replace this placeholder image and alt tag with a professional headshot */}
+          {/* Replace this placeholder image and alt tag with a professional headshot please work */}
           <img className='headshot' src="/src/assets/headshot.JPG" alt="headshot" />
         </section>
         <section className='description-container'>
