@@ -14,7 +14,7 @@ const Home = () => {
         <NavLink to="/contact">
         Contact Me
         </NavLink>
-        <img className="hero-background" src="https://i.ibb.co/vZTwfx0/monitor-1307227-1920.jpg" alt="computers with binary" />
+        <img className="hero-background" src="/src/assets/monitor-1307227_1920.jpg" alt="computers with binary" />
       </section>
       <section className="overview home-subsection">
         <h3 className="subsection-intro-header">Introduction</h3>
