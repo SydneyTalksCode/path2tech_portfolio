@@ -8,30 +8,30 @@ import { FaGithub } from "react-icons/fa6";
 // You can also add more properties if you want to display more information about your projects.
 const myProjects = [
   {
-    title: 'Project 1',
-    description: 'Description of project 1',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Weather App',
+    description: 'Weather App created using JS, CSS, React, and HTML',
+    repositoryLink: 'https://github.com/SydneyTalksCode/Weather-Project',
   },
-  {
-    title: 'Project 2',
-    description: 'Description of project 2',
-    repositoryLink: 'Link to the GitHub repository',
-  },
-  {
-    title: 'Project 3',
-    description: 'Description of project 3',
-    repositoryLink: 'Link to the GitHub repository',
-  },
-  {
-    title: 'Project 4',
-    description: 'Description of project 4',
-    repositoryLink: 'Link to the GitHub repository',
-  },
-  {
-    title: 'Project 5',
-    description: 'Description of project 5',
-    repositoryLink: 'Link to the GitHub repository',
-  },
+  // {
+  //   title: 'Project 2',
+  //   description: 'Description of project 2',
+  //   repositoryLink: 'Link to the GitHub repository',
+  // },
+  // {
+  //   title: 'Project 3',
+  //   description: 'Description of project 3',
+  //   repositoryLink: 'Link to the GitHub repository',
+  // },
+  // {
+  //   title: 'Project 4',
+  //   description: 'Description of project 4',
+  //   repositoryLink: 'Link to the GitHub repository',
+  // },
+  // {
+  //   title: 'Project 5',
+  //   description: 'Description of project 5',
+  //   repositoryLink: 'Link to the GitHub repository',
+  // },
 ];
 const Projects = () => {
   return (
